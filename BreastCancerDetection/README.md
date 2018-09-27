@@ -44,11 +44,11 @@ Breast Cancer Detection with SVM and KNN.
 
 Histogram
 
-![](https://github.com/goncaloperes/Project-CodeIgniter-CMS/blob/master/Snapshots/home.png)
+![](https://github.com/goncaloperes/MachineLearning/blob/master/BreastCancerDetection/Snapshots/1_histograms.png)
 
 Scatter Matrix
 
-![](https://github.com/goncaloperes/Project-CodeIgniter-CMS/blob/master/Snapshots/login.png)
+![](https://github.com/goncaloperes/MachineLearning/blob/master/BreastCancerDetection/Snapshots/2_scatter_plot_matrix.png)
 
 ---
 
